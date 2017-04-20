@@ -6,4 +6,4 @@ One stop place for icon resources
 https://github.com/alexdrone/ios-fontawesome
 #####Swift
 https://github.com/thii/FontAwesome.swift
-
+https://github.com/icons8/windows-10-icons/tree/master/font
