@@ -1,5 +1,5 @@
 # Icon-Resources
-One stop place for icon resources
+One stop place for iconn resources
 
 [Simple Line Icons](https://github.com/thesabbir/simple-line-icons)
 #####Objective-C 
